@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "baa6caeb-e720-46c8-b832-573e74ad407a": {
+      "ProjectGuid": "baa6caeb-e720-46c8-b832-573e74ad407a",
+      "DisplayName": "WebApp",
+      "ColorIndex": 0
+    },
+    "4420c5a5-b43e-4345-bef0-f9b06a4752b4": {
+      "ProjectGuid": "4420c5a5-b43e-4345-bef0-f9b06a4752b4",
+      "DisplayName": "Devexpress",
+      "ColorIndex": 1
+    },
+    "c8787c5e-6b87-405b-bd94-0eb397194031": {
+      "ProjectGuid": "c8787c5e-6b87-405b-bd94-0eb397194031",
+      "DisplayName": "DevexpressApi",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

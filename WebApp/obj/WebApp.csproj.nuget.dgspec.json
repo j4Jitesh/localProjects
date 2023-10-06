@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\WebApp\\WebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\DevexpressApi\\DevexpressApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\DevexpressApi\\DevexpressApi.csproj",
+        "projectName": "DevexpressApi",
+        "projectPath": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\DevexpressApi\\DevexpressApi.csproj",
+        "packagesPath": "C:\\Users\\jitesh.tuladhar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\DevexpressApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jitesh.tuladhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\jitesh.tuladhar\\local-nuget-feed": {},
+          "http://plugin.cedargate.com/artifactory/api/nuget/v3/cgt-nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/pxjMhASfkxoU24ennRvlWryZjZDYnpGljPtqiqVIZrFXrc6Mlu/api": {},
+          "https://plugin.cgt.us/artifactory/api/nuget/v3/cgt-nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\Devexpress\\Devexpress.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\Devexpress\\Devexpress.csproj",
+        "projectName": "Devexpress",
+        "projectPath": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\Devexpress\\Devexpress.csproj",
+        "packagesPath": "C:\\Users\\jitesh.tuladhar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\Devexpress\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jitesh.tuladhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\jitesh.tuladhar\\local-nuget-feed": {},
+          "http://plugin.cedargate.com/artifactory/api/nuget/v3/cgt-nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/pxjMhASfkxoU24ennRvlWryZjZDYnpGljPtqiqVIZrFXrc6Mlu/api": {},
+          "https://plugin.cgt.us/artifactory/api/nuget/v3/cgt-nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DevExpress.Blazor": {
+              "target": "Package",
+              "version": "[22.1.7, )"
+            },
+            "DevExpress.Blazor.RichEdit": {
+              "target": "Package",
+              "version": "[22.1.7, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\WebApp\\WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\WebApp\\WebApp.csproj",
+        "projectName": "WebApp",
+        "projectPath": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\jitesh.tuladhar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jitesh.tuladhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\jitesh.tuladhar\\local-nuget-feed": {},
+          "http://plugin.cedargate.com/artifactory/api/nuget/v3/cgt-nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/pxjMhASfkxoU24ennRvlWryZjZDYnpGljPtqiqVIZrFXrc6Mlu/api": {},
+          "https://plugin.cgt.us/artifactory/api/nuget/v3/cgt-nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\DevexpressApi\\DevexpressApi.csproj": {
+                "projectPath": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\DevexpressApi\\DevexpressApi.csproj"
+              },
+              "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\Devexpress\\Devexpress.csproj": {
+                "projectPath": "C:\\Users\\jitesh.tuladhar\\source\\repos\\Local_Projects\\WebApp\\Devexpress\\Devexpress.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AntDesign": {
+              "target": "Package",
+              "version": "[0.10.2, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "DevExpress.Blazor": {
+              "target": "Package",
+              "version": "[22.1.7, )"
+            },
+            "DevExpress.Blazor.RichEdit": {
+              "target": "Package",
+              "version": "[22.1.7, )"
+            },
+            "GitInfo": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Polly.Contrib.WaitAndRetry": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "System.Diagnostics.DiagnosticSource": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "System.Security.Cryptography.Pkcs": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

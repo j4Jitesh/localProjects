@@ -1,0 +1,11 @@
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\bin\Debug\net6.0\DevexpressApi.deps.json
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\bin\Debug\net6.0\DevexpressApi.dll
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\bin\Debug\net6.0\ref\DevexpressApi.dll
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\bin\Debug\net6.0\DevexpressApi.pdb
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\obj\Debug\net6.0\DevexpressApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\obj\Debug\net6.0\DevexpressApi.AssemblyInfoInputs.cache
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\obj\Debug\net6.0\DevexpressApi.AssemblyInfo.cs
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\obj\Debug\net6.0\DevexpressApi.csproj.CoreCompileInputs.cache
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\obj\Debug\net6.0\DevexpressApi.dll
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\obj\Debug\net6.0\ref\DevexpressApi.dll
+C:\Users\jitesh.tuladhar\source\repos\Local_Projects\WebApp\DevexpressApi\obj\Debug\net6.0\DevexpressApi.pdb

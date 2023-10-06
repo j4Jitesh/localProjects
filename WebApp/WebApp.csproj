@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="AntDesign" Version="0.10.2" />
+	  <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+	  <PackageReference Include="DevExpress.Blazor" Version="22.1.7" />
+	  <PackageReference Include="DevExpress.Blazor.RichEdit" Version="22.1.7" />
+	  <PackageReference Include="GitInfo" Version="2.2.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.3" />
+	  <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.DataProtection.StackExchangeRedis" Version="6.0.3" />
+	  <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="6.0.3" />
+	  <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="7.0.2" />
+	  <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />
+	  <PackageReference Include="Microsoft.Extensions.Http.Polly" Version="6.0.0" />
+	  <PackageReference Include="Polly.Contrib.WaitAndRetry" Version="1.1.1" />
+	  <PackageReference Include="System.Security.Cryptography.Pkcs" Version="6.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DevexpressApi\DevexpressApi.csproj" />
+    <ProjectReference Include="..\Devexpress\Devexpress.csproj" />
+  </ItemGroup>
+
+</Project>
